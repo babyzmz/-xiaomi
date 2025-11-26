@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Love Particles",
+  "description": "A real-time 3D particle system controlled by hand gestures. Use pinch gestures to expand/contract particles. Make a finger heart to trigger a special effect.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
